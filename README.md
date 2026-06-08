@@ -68,6 +68,6 @@ Build regression models to predict life expectancy
 Add correlation heatmaps and advanced visualizations
 Include socioeconomic indicators (GDP, education, etc.)
 Automate data cleaning pipeline
-👤 Author
+  Author
 
 Computer Science student focused on data analysis, machine learning, and real-world applications of Python in health and socioeconomic data.
